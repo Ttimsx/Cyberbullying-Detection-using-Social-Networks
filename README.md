@@ -11,3 +11,4 @@ Features
      
 Tech Stack:
 Python, Flask, Machine Learning, Sentiment Analysis, HTML/CSS, MySQL.
+To access the code check out the code branch.
